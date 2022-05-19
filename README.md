@@ -4,10 +4,9 @@
 
   
 
-Coin Price is a React Web App powered by [COINGECKO](https://www.coingecko.com/en/api/documentation) cryptocurrency API. Visitors can browse through the top 50 Crypto Currencies. Visitors can see details of a coin by clicking on the coin card.
+CoinPrice is a React Web App powered by [COINGECKO](https://www.coingecko.com/en/api/documentation) cryptocurrency API. Users can browse through the top 50 Crypto Currencies. Users can see details of a coin by clicking on the coin card.
 
 
-Starter Template: [https://github.com/shakilahmedatik/crypto-cafe-starter](https://github.com/shakilahmedatik/crypto-cafe-starter)
 
 ## Total Pages: 06
 
@@ -46,6 +45,6 @@ Starter Template: [https://github.com/shakilahmedatik/crypto-cafe-starter](https
 2.  Get details of a coin by ID api: https://api.coingecko.com/api/v3/coins/${id}
     
 
-3. Demo Site: [https://crypto-cafe.netlify.app](https://crypto-cafe.netlify.app)
+3. Demo Site: 
 
 4. Requirement Doc: [https://docs.google.com/document/d/1lqqNGPWOwLkiHWxXZiUeQcckQ-H0U-Lv4p_dtvFkqz0/edit?usp=sharing](https://docs.google.com/document/d/1lqqNGPWOwLkiHWxXZiUeQcckQ-H0U-Lv4p_dtvFkqz0/edit?usp=sharing)
