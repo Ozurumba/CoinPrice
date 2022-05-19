@@ -47,4 +47,3 @@ CoinPrice is a React Web App powered by [COINGECKO](https://www.coingecko.com/en
 
 3. Demo Site: 
 
-4. Requirement Doc: [https://docs.google.com/document/d/1lqqNGPWOwLkiHWxXZiUeQcckQ-H0U-Lv4p_dtvFkqz0/edit?usp=sharing](https://docs.google.com/document/d/1lqqNGPWOwLkiHWxXZiUeQcckQ-H0U-Lv4p_dtvFkqz0/edit?usp=sharing)
